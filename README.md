@@ -4,7 +4,7 @@ NGS Assignments in Galaxy for the Bioinformatics minor
 # Workflows
 The following tutorials were followed and the final .ga workflow is mentioned below. 
 
-Link Tutorial: [A short introduction to Galaxy](https://training.galaxyproject.org/training-material/topics/introduction/tutorials/galaxy-intro-short/tutorial.html)
+Link Tutorial: [A short introduction to Galaxy](https://training.galaxyproject.org/training-material/topics/introduction/tutorials/galaxy-intro-short/tutorial.html)  
 Link Workflow (.ga file):
 
 Link Tutorial: [NGS data logistics](https://training.galaxyproject.org/training-material/topics/introduction/tutorials/galaxy-intro-ngs-data-managment/tutorial.html)  
