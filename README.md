@@ -24,5 +24,3 @@ Link Workflow (.ga file): [Workflow](Galaxy-Workflow-Lecture_3__Antibiotic_resis
 
 Link Tutorial: [Pathogen detection from (direct Nanopore) sequencing data using Galaxy - Foodborne Edition](https://training.galaxyproject.org/training-material/topics/microbiome/tutorials/pathogen-detection-from-nanopore-foodborne-data/tutorial.html#phylogenetic-tree-building)  
 Link Workflow (.ga file): [Workflow](Galaxy-Workflow-Lecture_3__Pathogen_detection_from_(direct_Nanopore)_sequencing_data_using_Galaxy_-_Foodborne_Edition__.ga)
-
-## Workflow <img width="950" alt="Scherm­afbeelding 2024-03-03 om 22 24 11" src="https://github.com/MaxDubbeld/NGS-Workflow/assets/109160117/214e962d-43c7-4a7f-a9d0-6005b1ea18dc">
